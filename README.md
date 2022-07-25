@@ -2,7 +2,7 @@
 <h3 align="center">A cognitive science researcher and data scientist</h3>
 
 - 🔭 I’m currently working on [Satellite Image-Based Drought Detection](https://github.com/helyne/drought_detection)
-- 👯 I’m looking to collaborate on **anything neuroscience, climate, or urban planning related! Also interested in tinkering with deep dreaming projects**
+- 👯 I’m looking to collaborate on **anything neuroscience, climate, or urban planning related. Also interested in tinkering with deep dreaming projects**
 - 📄 Know about my experiences [https://www.linkedin.com/in/helyne/](https://www.linkedin.com/in/helyne/)
 - 😄 Pronouns: she/her
 
