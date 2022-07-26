@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Satellite Image-Based Drought Detection](https://github.com/helyne/drought_detection)
 - 👯 I’m looking to collaborate on **anything neuroscience, climate, or urban planning related. Also interested in tinkering with deep dreaming projects**
 - 📄 Know about my experiences [https://www.linkedin.com/in/helyne/](https://www.linkedin.com/in/helyne/)
-- 🚀 Brand new graduate from the Le Wagon data science bootcamp
+- 🚀 Brand new graduate from the Le Wagon Data Science bootcamp
 - 😄 Pronouns: she/her
 
 <h3 align="left">Connect with me:</h3>
