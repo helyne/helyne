@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Helyne</h1>
-<h3 align="center">A cognitive science researcher and data scientist</h3>
+<h3 align="center">A cognitive science researcher and junior data engineer</h3>
 
 - 🔭 I’m currently working on [Satellite Image-Based Drought Detection](https://github.com/helyne/drought_detection)
 - 👯 I’m looking to collaborate on **anything neuroscience, climate, or urban planning related. Also interested in tinkering with deep dreaming projects**
