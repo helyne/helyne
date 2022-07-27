@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on [Satellite Image-Based Drought Detection](https://github.com/helyne/drought_detection)
 - 👯 I’m looking to collaborate on **anything with computer vision**
 - 📄 Know about my experiences [https://www.linkedin.com/in/helyne/](https://www.linkedin.com/in/helyne/)
-- 🚀 Graduate of the Le Wagon Data Science bootcamp
+- 🚀 Graduate of the Le Wagon Data Science boot camp
 - 😄 Pronouns: she/her
 
 My interests lie in using deep learning to address real-world problems, such as climate change and the future of urban living (very fascinated by sustainable urban planning as a non-urban planner). I'm also passionate about neuroscience and neuroplasticity associated with learning and memory in enriched environments, as this is my background.
