@@ -2,10 +2,12 @@
 <h3 align="center">A junior data engineer</h3>
 
 - 🔭 I’m currently working on [Satellite Image-Based Drought Detection](https://github.com/helyne/drought_detection)
-- 👯 I’m looking to collaborate on **anything neuroscience, climate, or urban planning related. Also interested in tinkering with deep dreaming projects**
+- 👯 I’m looking to collaborate on **anything with computer vision. Also interested in tinkering with deep dreaming projects**
 - 📄 Know about my experiences [https://www.linkedin.com/in/helyne/](https://www.linkedin.com/in/helyne/)
 - 🚀 Brand new graduate from the Le Wagon Data Science bootcamp
 - 😄 Pronouns: she/her
+
+My interests lie in using deep learning to address real-world problems, such as climate change and the future of urban living (very fascinated by sustainable urban planning as a non-urban planner). I'm also passionate about neuroscience and neuroplasticity associated with learning and memory in enriched environments.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
