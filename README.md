@@ -2,7 +2,7 @@
 <h3 align="center">A junior data engineer</h3>
 
 - 🔭 I’m currently working on [Satellite Image-Based Drought Detection](https://github.com/helyne/drought_detection)
-- 👯 I’m looking to collaborate on **anything with computer vision. Also interested in tinkering with deep dreaming projects**
+- 👯 I’m looking to collaborate on **anything with computer vision**
 - 📄 Know about my experiences [https://www.linkedin.com/in/helyne/](https://www.linkedin.com/in/helyne/)
 - 🚀 Brand new graduate from the Le Wagon Data Science bootcamp
 - 😄 Pronouns: she/her
