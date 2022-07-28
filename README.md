@@ -3,7 +3,8 @@
 
 - 🔭 I’m currently working on [Satellite Image-Based Drought Detection](https://github.com/helyne/drought_detection)
 - 👯 I’m looking to collaborate on **anything with computer vision**
-- 📄 Know about my experiences [https://www.linkedin.com/in/helyne/](https://www.linkedin.com/in/helyne/)
+- 📄 Know about my experiences [linkedin.com/in/helyne/](https://www.linkedin.com/in/helyne/)
+- 💼 Check out my prettified portfolio on [troopl.com/helyne](https://troopl.com/helyne)
 - 🚀 Graduate of the Le Wagon Data Science boot camp
 - 😄 Pronouns: she/her
 
