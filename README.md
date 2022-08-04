@@ -1,11 +1,15 @@
 <h1 align="center">Hi, I'm Helyne</h1>
 <h3 align="center">A cognitive science researcher and data engineer</h3>
 
-- 🔭 I’m currently working on [Satellite Image-Based Drought Detection](https://github.com/helyne/drought_detection)
+- 🔭 I’m currently working on:
+
+  - [Satellite Image-Based Drought Detection](https://github.com/helyne/drought_detection)
+  - [Spotify Similarity Playlist](https://github.com/FedericoGriggio/music_similarity)
+
 - 👯 I’m looking to collaborate on **anything with computer vision**
 - 📄 Know about my experiences [linkedin.com/in/helyne/](https://www.linkedin.com/in/helyne/)
 - 💼 Check out my prettified portfolio on [troopl.com/helyne](https://troopl.com/helyne)
-- 🚀 Graduate of the Le Wagon Data Science bootcamp
+- 🚀 Graduate of Le Wagon Data Science bootcamp
 - 😄 Pronouns: she/her
 
 My interests lie in using deep learning to address real-world problems, such as climate change and the future of urban living (very fascinated by sustainable urban planning as a non-urban planner). I'm also passionate about neuroscience and neuroplasticity associated with learning and memory in enriched environments, as this is my background.
