@@ -5,9 +5,10 @@
 
   - [Satellite Image-Based Drought Detection](https://github.com/helyne/drought_detection)
   - [Spotify Similarity Playlist](https://github.com/FedericoGriggio/music_similarity)
+  - [NLP Movie Review Sentiment Analyser](https://github.com/sridhar211/NLPmoviereviews)
 
 - 👯 I’m looking to collaborate on **anything with computer vision**
-- 📄 Know about my experiences [linkedin.com/in/helyne/](https://www.linkedin.com/in/helyne/)
+- 📄 Discover more about my experiences [linkedin.com/in/helyne/](https://www.linkedin.com/in/helyne/)
 - 💼 Check out my prettified portfolio on [troopl.com/helyne](https://troopl.com/helyne)
 - 🚀 Graduate of Le Wagon Data Science bootcamp
 - 😄 Pronouns: she/her
