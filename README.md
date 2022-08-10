@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Helyne</h1>
-<h3 align="center">A cognitive science researcher and data engineer</h3>
+<h3 align="center">A cognitive science researcher and data scientist</h3>
 
 - 🔭 I’m currently working on:
 
