@@ -4,12 +4,8 @@
 - 🔭 I’m currently working on:
 
   - [Satellite Image-Based Drought Detection](https://github.com/helyne/drought_detection)
-  - [Spotify Similarity Playlist](https://github.com/FedericoGriggio/music_similarity)
-  - [NLP Movie Review Sentiment Analyser](https://github.com/sridhar211/NLPmoviereviews)
 
 - 👯 I’m looking to collaborate on **anything with computer vision**
-- 💼 Check out my prettified portfolio on [troopl.com/helyne](https://troopl.com/helyne)
-- 🚀 Graduate of Le Wagon Data Science bootcamp
 - 😄 Pronouns: she/her
 
 
