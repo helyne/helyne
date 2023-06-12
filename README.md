@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on:
 
-  - [Satellite Image-Based Drought Detection](https://github.com/helyne/drought_detection)
+  - R&D for VineForecast
 
 - 👯 I’m looking to collaborate on **anything with computer vision**
 - 😄 Pronouns: she/her
