@@ -4,7 +4,6 @@
 
   - R&D for VineForecast
 
-- 👯 I’m looking to collaborate on **addressing future climate problems**
 - 😄 Pronouns: she/her
 
 
