@@ -1,11 +1,10 @@
 <h1 align="center">Hi, I'm Helyne</h1>
-<h3 align="center">A cognitive science researcher and data scientist</h3>
 
 - 🔭 I’m currently working on:
 
   - R&D for VineForecast
 
-- 👯 I’m looking to collaborate on **anything with computer vision**
+- 👯 I’m looking to collaborate on **addressing future climate problems**
 - 😄 Pronouns: she/her
 
 
