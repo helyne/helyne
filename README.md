@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on:
 
-  - R&D for VineForecast
+  - Learning how to model neural activity
 
 - 😄 Pronouns: she/her
 
