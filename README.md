@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on:
 
+  - Contributions of urban land use to heatwave intensity in Shanghai, China from 1990-2024
   - Learning how to model neural activity
 
 - 😄 Pronouns: she/her
