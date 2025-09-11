@@ -7,8 +7,6 @@
   - Contributions of urban land use to heatwave intensity in Shanghai, China from 1990-2024 using satellite imagery and ERA-5 climate data
   - Toy models of neural activity and large-scale cortical functional networks
 
-- 😄 Pronouns: she/her
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
