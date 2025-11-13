@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on:
 
   - Cross-city, satellite image-based insights into urban heat hotspots from Ouagadougou, Burkina Faso and Da Nang, Vietnam in 2024
-  - Dark sea vessel detection in west Indian oceans combining multi-modal satellite data
+  - Dark sea-vessel detection in west Indian oceans combining multi-modal satellite data
   - Contributions of urban land use to heatwave intensity in Shanghai, China from 1990-2024 using satellite imagery and ERA-5 climate data
   - Toy models of neural activity and large-scale cortical functional networks
 
