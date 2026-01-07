@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Helyne</h1>
-<h3 align="center">Imaging from film to brains to the earth</h3>
+<h3 align="center"></h3>
 
 - 🔭 I’m currently working on:
 
